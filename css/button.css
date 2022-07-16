@@ -1,0 +1,27 @@
+.praimary-button {
+   font-family: var( --font-family-vollkorn-r);
+   font-size: 16px;
+   color: #47474f;
+   background: transparent;
+   border: 1px solid #47474f;
+   padding: 13px 34px 20px 34px;
+   transition: .5s ease;
+}
+
+.praimary-button:hover {
+   background: #fff;
+}
+
+.secondary-button {
+   font-size: var(--font-family-vollkorn-i);
+   font-size: 17px;
+   color: #8bcac3;
+   background: transparent;
+   border: 1px solid #8bcac3;
+   padding: 15px 60px;
+   transition: .5s ease
+}
+
+.secondary-button:hover {
+background: #fff;
+}

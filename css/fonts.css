@@ -1,0 +1,22 @@
+@font-face {
+   font-family: VollkornR;
+   src: url(../fonts/Vollkorn/static/Vollkorn-Regular.ttf);
+
+}
+
+@font-face {
+   font-family: VollkornI;
+   src: url(../fonts/Vollkorn/static/Vollkorn-Italic.ttf);
+
+}
+
+@font-face {
+   font-family: MontserratR;
+   src: url(../fonts/Montserat/static/Montserrat-Regular.ttf);
+
+}
+
+@font-face {
+   font-family: OswaldR;
+   src: url(../fonts/Oswald/static/Oswald-Regular.ttf);
+}

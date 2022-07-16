@@ -1,0 +1,16 @@
+:root {
+   --font-family-vollkorn-r: VollkornR, sans-serif;
+   --font-family-vollkorn-i: VollkornI, sans-serif;
+
+   --font-family-montserrat-r: MontserratR, sans-serif;
+
+   --font-family-oswald-r: OswaldR, sans-serif;
+
+}
+
+body {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
